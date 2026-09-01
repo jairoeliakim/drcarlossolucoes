@@ -1,0 +1,5 @@
+.vercel
+.env*
+wa-session/
+node_modules/
+.env.local
