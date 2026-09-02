@@ -1,13 +1,13 @@
 # Dr. Carlos Soluções — Landing Page
 
-Site estático simples (HTML + CSS + JS puro, sem build), pronto pra subir na Vercel.
+Site estático simples (HTML + CSS + JS), 
 
 ## Estrutura
 ```
 index.html      → conteúdo da página
 styles.css       → estilos
 script.js        → menu mobile
-images/          → fotos dos trabalhos (adicione novas fotos aqui)
+images/          → fotos dos trabalhos 
 ```
 
 
